@@ -5,5 +5,8 @@
 
 Here are some ideas to get you started:
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanlaurentio&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanlaurentio)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
